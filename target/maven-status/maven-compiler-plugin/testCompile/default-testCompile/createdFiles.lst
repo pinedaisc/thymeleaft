@@ -1,0 +1,4 @@
+com\example\demo\models\dao\ClienteDaoImp.class
+com\example\demo\models\dao\IClienteDao.class
+com\example\demo\models\entity\Cliente.class
+com\example\demo\PaginaApplicationTests.class
